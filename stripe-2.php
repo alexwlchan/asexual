@@ -1,2 +1,4 @@
 <?hh
-echo "My favourite card is the Ace of ♠️";
+$card = "ace";
+$suit = "♠️";
+echo "The best card in a deck is the ".$card." of ".$suit."!";
